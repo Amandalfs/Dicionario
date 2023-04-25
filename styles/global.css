@@ -1,0 +1,18 @@
+@import url('reset.css');
+
+:root {
+    --background: white;
+    --color-primary: black;
+    --color-segund: #8f19e8;
+    --font-SizePri: 16px;
+    --font-SizeSeg: 18px;
+    --font-sizeTer: 20px;
+    --font-family: 'Inter';
+}
+
+body {
+    width: 1920px;
+    height: 1080px;
+    background: var(--background);
+    border: 1px solid black;
+}
